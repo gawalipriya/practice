@@ -4,5 +4,6 @@ public class gitpractice {
 
 	public static void main(String[] args) {
 		System.out.println("THIS IS NEW GIT PRACTICE REPO...");
+		System.out.println("noe at feature2...");
 	}
 }
